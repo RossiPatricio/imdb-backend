@@ -1,0 +1,6 @@
+python 3.11
+
+requests: pip install requests
+beatufiuelsoup: pip install beautifulsoup4
+ducksearch ddgs: pip install ddgs
+psycopg2= pip install psycopg2-binary
