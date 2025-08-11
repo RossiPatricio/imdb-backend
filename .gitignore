@@ -2,3 +2,5 @@ IMDB.bat
 insert.bat
 write.bat
 next.txt
+output.txt
+__pycache__/
